@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artin", "Artin\Artin.csproj", "{98D22107-938D-40A9-8FAD-447CD5A81AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeAI", "MazeAI\MazeAI.csproj", "{6547B0E9-0A47-457C-97B6-683136932A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D22107-938D-40A9-8FAD-447CD5A81AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D22107-938D-40A9-8FAD-447CD5A81AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D22107-938D-40A9-8FAD-447CD5A81AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D22107-938D-40A9-8FAD-447CD5A81AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6547B0E9-0A47-457C-97B6-683136932A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6547B0E9-0A47-457C-97B6-683136932A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6547B0E9-0A47-457C-97B6-683136932A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6547B0E9-0A47-457C-97B6-683136932A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
